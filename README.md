@@ -30,7 +30,7 @@ The chat application allows users to connect with each other and exchange messag
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/real-time-chat-app.git`
+1. Clone the repository: `git clone https://github.com/Rohit0675/GroupTalk.git`
 2. Navigate to the project directory: `cd real-time-chat-app`
 3. Install dependencies for both the frontend and backend:
    - Frontend: `cd client && npm install`
@@ -41,7 +41,7 @@ The chat application allows users to connect with each other and exchange messag
 5. Start the development server:
    - Frontend: In the `client` directory, run `npm start`.
    - Backend: In the `server` directory, run `npm start`.
-6. Open your web browser and access the application at `http://localhost:3000`.
+6. Open your web browser and access the application at `http://localhost:3000/3001`.
 
 ## Usage
 
@@ -50,21 +50,11 @@ The chat application allows users to connect with each other and exchange messag
 - Send and receive messages in real-time.
 - Explore the various features of the chat application, such as user status, notifications, and room selection.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -am 'Add new feature'`.
-4. Push the branch to your forked repository: `git push origin feature-name`.
-5. Submit a pull request detailing your changes.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or suggestions, please contact [Sujay Shahare](mailto:shaharesujay@gmail.com).
+For any inquiries or suggestions, please contact [Rohit Talmale](mailto:rohittalmale675@gmail.com).
 
